@@ -1,14 +1,3 @@
-/*
- * Autor: Manuel "MaG" A. Güílamo, Newbie's Shell
- * URL: http://www.newbieshell.blogspot.com
- * 
- * released under the terms of MIT
- *
- * Basado en las especificaciones de la clase COS 217:
- * "Introduction to Programming Systems"
- *
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
