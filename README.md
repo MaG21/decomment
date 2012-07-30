@@ -1,6 +1,9 @@
-= Decomment Program
+Decomment Program
+=================
 
-== Description
+Description
+-----------
+
 This program removes C/C++ style comments from a file when called with a file
 name argument or read from standard input until a EOF is read.
 
@@ -13,14 +16,19 @@ or both. for more information vist:
 
 http://newbieshell.blogspot.com/2011/11/descomentador-de-cc.html
 
-== Compile
+Compile
+-------
 
   make 
 
-== Warning
+Warning
+-------
+
 Please use with caution. Removing comments from a source code its not
 always a good idea since they are there for a reason.
 
-== License
+License
+-------
+
 This content is released under the MIT License. For more information
 refer to file COPYRIGHT included in this distribution.
