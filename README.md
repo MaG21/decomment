@@ -11,8 +11,8 @@ As far as I concerned, this program is able to remove comments from source
 codes written in the following programming languages: C, C++, Objective-C?, C#,
 Java, JavaScript.
 
-This program may be useful when you are trying to save bandwidth, disk space
-or both. for more information vist:
+This program may be useful if you are trying to save bandwidth, disk space
+or both. for more information visit:
 
 http://newbieshell.blogspot.com/2011/11/descomentador-de-cc.html
 
